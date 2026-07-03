@@ -1,0 +1,20 @@
+[
+  {"id": "EDM01", "domain": "Evaluate, Direct and Monitor", "title": "Ensured Governance Framework Setting and Maintenance", "keywords": ["governance", "board", "policy", "حوكمة", "سياسات"]},
+  {"id": "EDM03", "domain": "Evaluate, Direct and Monitor", "title": "Ensured Risk Optimization", "keywords": ["risk appetite", "risk strategy", "شهية المخاطر", "استراتيجية المخاطر"]},
+  {"id": "APO01", "domain": "Align, Plan and Organize", "title": "Managed I&T Management Framework", "keywords": ["it management", "framework", "organization structure", "هيكل تنظيمي"]},
+  {"id": "APO12", "domain": "Align, Plan and Organize", "title": "Managed Risk", "keywords": ["risk assessment", "risk register", "threat", "vulnerability", "تقييم مخاطر", "سجل مخاطر", "تهديد"]},
+  {"id": "APO13", "domain": "Align, Plan and Organize", "title": "Managed Security", "keywords": ["information security", "isms", "iso 27001", "أمن المعلومات"]},
+  {"id": "APO14", "domain": "Align, Plan and Organize", "title": "Managed Data", "keywords": ["data governance", "data quality", "حوكمة البيانات"]},
+  {"id": "BAI06", "domain": "Build, Acquire and Implement", "title": "Managed IT Changes", "keywords": ["change management", "إدارة التغيير"]},
+  {"id": "BAI09", "domain": "Build, Acquire and Implement", "title": "Managed Assets", "keywords": ["asset management", "asset value", "إدارة الأصول", "قيمة الأصل"]},
+  {"id": "BAI10", "domain": "Build, Acquire and Implement", "title": "Managed Configuration", "keywords": ["configuration management", "cmdb", "إدارة الإعدادات"]},
+  {"id": "DSS01", "domain": "Deliver, Service and Support", "title": "Managed Operations", "keywords": ["operations", "data center", "العمليات التشغيلية"]},
+  {"id": "DSS02", "domain": "Deliver, Service and Support", "title": "Managed Service Requests and Incidents", "keywords": ["incident", "incident response", "الحوادث الأمنية", "الاستجابة للحوادث"]},
+  {"id": "DSS04", "domain": "Deliver, Service and Support", "title": "Managed Continuity", "keywords": ["business continuity", "disaster recovery", "استمرارية الأعمال", "التعافي من الكوارث"]},
+  {"id": "DSS05", "domain": "Deliver, Service and Support", "title": "Managed Security Services", "keywords": ["malware", "firewall", "access control", "network security", "فيروسات", "جدار حماية", "التحكم في الوصول", "أمن الشبكات"]},
+  {"id": "DSS06", "domain": "Deliver, Service and Support", "title": "Managed Business Process Controls", "keywords": ["business process control", "segregation of duties", "الفصل بين المهام"]},
+  {"id": "MEA01", "domain": "Monitor, Evaluate and Assess", "title": "Managed Performance and Conformance Monitoring", "keywords": ["kpi", "monitoring", "متابعة الأداء"]},
+  {"id": "MEA02", "domain": "Monitor, Evaluate and Assess", "title": "Managed System of Internal Control", "keywords": ["internal control", "audit", "الرقابة الداخلية", "تدقيق"]},
+  {"id": "MEA03", "domain": "Monitor, Evaluate and Assess", "title": "Managed Compliance with External Requirements", "keywords": ["compliance", "regulation", "gdpr", "الامتثال", "التشريعات"]},
+  {"id": "MEA04", "domain": "Monitor, Evaluate and Assess", "title": "Managed Assurance", "keywords": ["assurance", "third-party audit", "التأكيد", "تدقيق خارجي"]}
+]
